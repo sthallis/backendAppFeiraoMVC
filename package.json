@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "body-parser": "^1.18.3",
     "mongoose": "^5.0.16",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   },
   "bin": {
     "backendappfeirao": "src.js"
